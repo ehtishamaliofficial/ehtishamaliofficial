@@ -1,6 +1,4 @@
-Certainly, here's a beautifully crafted introduction for your GitHub repository as a MERN Stack web developer:
-
-# MERN Stack Web Development
+# MERN Stack Web Developmer
 
 🚀 Welcome to my GitHub repository for MERN (MongoDB, Express.js, React, Node.js) Stack Web Development! 🚀
 
